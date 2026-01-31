@@ -1,0 +1,9 @@
+Title: Exchange-Traded Funds (ETFs) – Basics
+
+An Exchange-Traded Fund (ETF) is an investment fund that holds a collection of assets such as stocks, bonds, or commodities. ETFs are traded on stock exchanges, similar to individual stocks.
+
+ETFs allow investors to gain exposure to many assets at once, which helps with diversification. For example, a single ETF may track an index like the S&P 500, giving the investor exposure to hundreds of companies.
+
+Unlike mutual funds, ETFs can be bought and sold throughout the trading day at market prices. Most ETFs have lower expense ratios compared to actively managed funds.
+
+ETFs do not guarantee profits and can lose value depending on market conditions. Past performance does not predict future results.

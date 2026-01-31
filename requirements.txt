@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+
+langgraph
+openai
+python-dotenv
+yfinance
+python-dotenv
+pypdf
+faiss-cpu
+
