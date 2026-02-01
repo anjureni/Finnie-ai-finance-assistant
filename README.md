@@ -66,7 +66,7 @@ Growth-over-time projection with charts
 │  - Knowledge Base Files   │
 │  - Market APIs (optional) │
 └───────────────────────────┘
-
+![alt text](image.png)
 
 - **UI**: Built with Streamlit (`src/web_app/`).
 - **Agents**: Handle user queries, context, and orchestrate retrieval/LLM calls.
@@ -77,6 +77,7 @@ Growth-over-time projection with charts
 
 ---
 # 🔄 Application Workflow
+![alt text](image-1.png)
 #  1️⃣ User Interaction
 User interacts via Streamlit UI
 Can ask a question or navigate dashboards
