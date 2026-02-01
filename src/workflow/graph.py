@@ -26,8 +26,6 @@ def build_graph(agents: dict):
         state["answer"] = getattr(result, "answer", "") if result is not None else ""
         state["sources"] = getattr(result, "sources", []) if result is not None else []
 
-        # ✅ IMPORTANT: copy any extra fields from agent result into state
-        # so UI pages can use them (market_df, portfolio_df, goal_df, etc.)
         for key in [
             # market
             "market_df", "market_fetched_at", "market_ticker", "market_is_mock",
